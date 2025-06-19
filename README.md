@@ -1,4 +1,4 @@
-Security Researcher: John Page (aka hyp3rlinx), created the malvuln project and discovered many vulnerabilities in enterprise software.
+Security Researcher: John Page (aka hyp3rlinx), created the malvuln project.
 
 https://www.malvuln.com
 
